@@ -1,4 +1,6 @@
 # Trabajo de Fin de Grado
+Aplicación en Matlab para dibujar soluciones y diagramas de fase de sistemas autónomos en dos y tres dimensiones.
+
 Autor: Manuel Sánchez Torrón
 
 Doble Grado en Ingeniería Informática y Matemáticas
