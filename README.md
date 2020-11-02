@@ -1,5 +1,5 @@
 # Trabajo de Fin de Grado
-Aplicación en Matlab para dibujar soluciones y diagramas de fase de sistemas autónomos de ecuaciones diferenciales en dos y tres dimensiones.
+Memoria con el estudio teórico y aplicación en Matlab para dibujar soluciones y diagramas de fase de sistemas autónomos de ecuaciones diferenciales en dos y tres dimensiones.
 
 Autor: Manuel Sánchez Torrón
 
@@ -11,3 +11,4 @@ Universidad Complutense de Madrid
 1. Descargar el repositorio. 
 2. Descomprimir el repositorio en el workspace de Matlab.
 3. En la ventana de comandos de Matlab teclear "TFG".
+4. Leerse el trabajo (opcional pero recomendable).
