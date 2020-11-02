@@ -1,4 +1,4 @@
-# Trabajo de Fin de Grado
+# Trabajo de Fin de Grado: Simetrías en ecuaciones diferenciales y visualización de soluciones
 Memoria con el estudio teórico y aplicación en Matlab para dibujar soluciones y diagramas de fase de sistemas autónomos de ecuaciones diferenciales en dos y tres dimensiones.
 
 Autor: Manuel Sánchez Torrón
